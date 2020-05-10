@@ -20,6 +20,6 @@ This project was also built on local and then committed. Steps to do the same.
 
 Reference
 ---------
-https://www.softwarelab.it/2018/10/12/adding-an-existing-project-to-github-using-the-command-line/  
-https://github.com/KarenSeq/jaxRS  
-Reference for markdown file - https://en.wikipedia.org/wiki/Markdown
+* https://www.softwarelab.it/2018/10/12/adding-an-existing-project-to-github-using-the-command-line/  
+* https://github.com/KarenSeq/jaxRS  
+* Reference for markdown file - https://en.wikipedia.org/wiki/Markdown
